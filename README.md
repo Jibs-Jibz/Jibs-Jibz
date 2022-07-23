@@ -1,4 +1,4 @@
- #👋 Hi, I’m @Jibs-Jibz
+ #Hi, I’m @Jibs-Jibz 👋
 - 👀 I’m interested in having an internship role in and system development company
 - 🌱 I’m a Front-end Developer JavaScript, React JS
 - 📫 You can reach me at osunkoyajibola@gmail.com
