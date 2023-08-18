@@ -1,8 +1,9 @@
 # Hi, I’m @Jibs-Jibz 👋
-- 👀 I’m interested in having an internship role in and system development company
-- 🌱 I’m a Front-end Developer JavaScript, React JS
+- 👀 I have a strong interest in collaborating with startups.
+- 🌱 I am a Front-end Developer proficient in JavaScript, React JS, and Next JS.
 - 📫 You can reach me at osunkoyajibola@gmail.com or 
 - LinkedIn https://www.linkedin.com/in/osunkoyajibola/
+- Portfolio https://jibs.me
 
 <!---
 Jibs-Jibz/Jibs-Jibz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
